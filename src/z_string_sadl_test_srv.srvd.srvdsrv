@@ -1,0 +1,4 @@
+@EndUserText.label: 'Z_STRING_SADL_TEST'
+define service Z_STRING_SADL_TEST_SRV {
+  expose Z_STRING_SADL_TEST;
+}
